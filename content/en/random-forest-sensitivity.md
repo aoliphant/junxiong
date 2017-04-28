@@ -12,7 +12,7 @@ The RandomForestClassifier is trained using bootstrap aggregation, where each ne
 
 
 
-A random forest (RF) classifier is an ensemble classifier that produces multiple decision trees, using a randomly selected subset of training samples and variables. This classifier has become popular within the remote sensing community due to the accuracy of its classifications.
+A random edits forest (RF) classifier is an ensemble classifier that multiple decision trees, using a randomly selected subset of training samples and variables. This classifier has become popular within the sensing community due to the accuracy of its classifications.
 
 Supervised parametric classifiers such as Maximum Likelihood Classification (MLC) deliver excellent results when dealing with unimodal data. However, they have limitations when dealing with multi-modal input datasets because these classifiers assume a normal data distribution. CART, SVM and ANN classifiers don’t make any assumptions regarding frequency distribution and have therefore become increasingly popular for classifying remotely sensed data, which rarely have normal distributions.
 
